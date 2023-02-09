@@ -1,1 +1,1 @@
-# github-ations-project
+# github-actions-project
